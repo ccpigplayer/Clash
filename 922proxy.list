@@ -1,3 +1,5 @@
 # 922proxy
 DOMAIN-SUFFIX,922proxy.com
 DOMAIN-KEYWORD,922proxy
+IP-CIDR,101.33.47.8/32,no-resolve
+IP-CIDR,49.51.177.63/32,no-resolve
