@@ -3,5 +3,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,rebatekey.com
 DOMAIN-SUFFIX,rebaid.com
 DOMAIN-SUFFIX,topcashback.com
+DOMAIN-SUFFIX,relayfi.com
+DOMAIN-SUFFIX,mercury.com
 PROCESS-NAME,openai
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,relayfi
+DOMAIN-KEYWORD,mercury
